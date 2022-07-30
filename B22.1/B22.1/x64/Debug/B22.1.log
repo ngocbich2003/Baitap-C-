@@ -1,0 +1,5 @@
+﻿  MainB22_1.cpp
+  B22_1.cpp
+C:\Users\daong\source\repos\B22.1\B22.1\B22_1.cpp(1,10): error C2006: '#include': expected "FILENAME" or <FILENAME>
+C:\Users\daong\source\repos\B22.1\B22.1\B22_1.cpp(1,10): fatal error C1083: Cannot open include file: '': No such file or directory
+  Generating Code...
