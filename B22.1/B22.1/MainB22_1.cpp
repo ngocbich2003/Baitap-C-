@@ -1,5 +1,5 @@
 #include<iostream>
-#include"B22_1.h"
+#include "B22_1.h"
 using namespace std;
 
 int main() {

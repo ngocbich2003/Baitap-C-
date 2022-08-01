@@ -1,5 +1,5 @@
-#include "B22_1.h"
-
+#include "B22_1.h" 
+//chinh sua
 double add(double a, double b) {
 	return a + b;
 }
